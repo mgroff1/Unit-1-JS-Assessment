@@ -1,3 +1,5 @@
+https://codesandbox.io/s/lambda-school-unit-one-js-assessment-h707d?fontsize=14&hidenavigation=1&theme=dark
+
 # Nested Data Exercises
 
 ### 💪 10+ Practice Challenges: Nested `Objects` & `Arrays`
